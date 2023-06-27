@@ -1,9 +1,9 @@
-# QB Core - Danish Translation (Basic)
+# QB Core - Danish Translation (Basic) 
 
 Dette er QB Core oversat, fra os til jer! &lt;3
 
 Har ud nogen problemer med disse scripts, fejl, problemer med opsætning eller andet?  
-Så kom forbi https://fivem.dk/discord og få hjælp.
+Så kom forbi https://fivem.dk/discord og få hjælp.  (OBS ikke lavet af mig)
 
 ## Opdatering
 Vi opdatere løbende for fejl og mangler!
